@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anonymously-coded
 - 👀 I’m interested in python programming
-- 🌱 I’m currently learning python django framework
-- 💞️ I’m looking for a job suitable for my profile
+- 🌱 I’m currently learning HTML, CSS, JacaScript
+- 💞️ I’m currently working in Zerplabs, Coimbatore.
 - 📫 How to reach me --email--> muraliganesan9055@gmail.com
 
 <!---
